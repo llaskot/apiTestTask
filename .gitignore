@@ -4,7 +4,6 @@ pom.xml.releaseBackup
 pom.xml.versionsBackup
 pom.xml.next
 release.properties
-dependency-reduced-pom.xml
 buildNumber.properties
 .mvn/timing.properties
 # https://github.com/takari/maven-wrapper#usage-without-binary-jar
@@ -15,3 +14,19 @@ buildNumber.properties
 .project
 # JDT-specific (Eclipse Java Development Tools)
 .classpath
+.allure/allure-2.8.1/bin/allure
+*.bat
+*.yml
+*.jar
+*.properties
+*.js
+*.svg
+*.css
+.idea/compiler.xml
+.idea/encodings.xml
+.idea/jarRepositories.xml
+.idea/misc.xml
+.idea/runConfigurations.xml
+ajcore.20220511.142426.282.txt
+ajcore.20220511.142458.296.txt
+*.json
